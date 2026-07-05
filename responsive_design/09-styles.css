@@ -553,8 +553,8 @@
       text-align: center;
     }
 
-    .social.nav li + li,
-    .footer-nav li + li {
+    .footer .social.nav li + li,
+    .footer .footer-nav li + li {
       padding-left: 2rem;
     }
   }
