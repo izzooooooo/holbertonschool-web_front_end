@@ -1,15 +1,3 @@
-# 0x05. Forms
+# HTML and CSS Forms
 
------------
-
-
-## Specializations - Web Stack programming ― Front-end
-
-## by David Dias, Senior Software Engineer at HomeX
-
- ---------
-
-
-## Author
-
-**Lafine Sami** - [Github](https://github.com/afinesami)
+This project covers the fundamentals of building usable, accessible, and well-styled HTML5 forms. It includes constraint validation, basic structure, input handling, and pure CSS error messaging.
